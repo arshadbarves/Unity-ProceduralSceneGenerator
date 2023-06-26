@@ -6,10 +6,15 @@ This is a Unity project that generates a procedural scene using a grid of tiles.
 
 ## Features
 
-[x] - Generate a scene using a grid of tiles
-[x] - Populate the tiles with objects that are randomly selected from a list of prefabs
-[x] - Generate different types of scenes using different Generator scripts
-[x] - Control the generation of the scene using a simple UI
+- Procedural scene generation
+- Randomized object placement
+- Customizable object placement
+- Customizable scene generation
+- Customizable scene size
+- Customizable scene layout
+- Customizable scene objects
+- Customizable scene object placement
+- Customizable scene object scale
 
 ## Future Features
 
